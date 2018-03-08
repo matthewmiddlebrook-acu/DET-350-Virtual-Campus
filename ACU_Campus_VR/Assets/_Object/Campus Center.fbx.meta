@@ -1,16 +1,133 @@
 fileFormatVersion: 2
-guid: b6984cfe8bdad9d41973ed28c2b23dce
-timeCreated: 1520027703
+guid: 83df48a76a82ca34baec22d21607f80d
+timeCreated: 1520521787
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Cube
+    100004: Plane.000
+    100006: Plane.003
+    100008: Plane.004
+    100010: Plane.005
+    100012: Plane.006
+    100014: Plane.007
+    100016: Plane.008
+    100018: Plane.010
+    100020: Plane.011
+    100022: Plane.012
+    100024: Plane.013
+    100026: Plane.014
+    100028: Plane.015
+    100030: Plane.016
+    100032: Plane.017
+    100034: Plane.018
+    100036: Plane.019
     400000: //RootNode
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Plane
+    400002: Cube
+    400004: Plane.000
+    400006: Plane.003
+    400008: Plane.004
+    400010: Plane.005
+    400012: Plane.006
+    400014: Plane.007
+    400016: Plane.008
+    400018: Plane.010
+    400020: Plane.011
+    400022: Plane.012
+    400024: Plane.013
+    400026: Plane.014
+    400028: Plane.015
+    400030: Plane.016
+    400032: Plane.017
+    400034: Plane.018
+    400036: Plane.019
+    2300000: Cube
+    2300002: Plane.000
+    2300004: Plane.003
+    2300006: Plane.004
+    2300008: Plane.005
+    2300010: Plane.006
+    2300012: Plane.007
+    2300014: Plane.008
+    2300016: Plane.010
+    2300018: Plane.011
+    2300020: Plane.012
+    2300022: Plane.013
+    2300024: Plane.014
+    2300026: Plane.015
+    2300028: Plane.016
+    2300030: Plane.017
+    2300032: Plane.018
+    2300034: Plane.019
+    3300000: Cube
+    3300002: Plane.000
+    3300004: Plane.003
+    3300006: Plane.004
+    3300008: Plane.005
+    3300010: Plane.006
+    3300012: Plane.007
+    3300014: Plane.008
+    3300016: Plane.010
+    3300018: Plane.011
+    3300020: Plane.012
+    3300022: Plane.013
+    3300024: Plane.014
+    3300026: Plane.015
+    3300028: Plane.016
+    3300030: Plane.017
+    3300032: Plane.018
+    3300034: Plane.019
+    4300000: Plane.019
+    4300002: Plane.018
+    4300004: Plane.017
+    4300006: Plane.016
+    4300008: Plane.015
+    4300010: Plane.013
+    4300012: Plane.014
+    4300014: Cube
+    4300016: Plane.012
+    4300018: Plane.011
+    4300020: Plane.010
+    4300022: Plane.008
+    4300024: Plane.007
+    4300026: Plane.006
+    4300028: Plane.000
+    4300030: Plane.005
+    4300032: Plane.004
+    4300034: Plane.003
   externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3window-mission-textured
+    second: {fileID: 2100000, guid: e46b13ea34ef2cd48bc0e53a16cbbfd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3window-promise-textured
+    second: {fileID: 2100000, guid: d9b5a50237ac24e458a9b3e0144662e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5window-mission-textured
+    second: {fileID: 2100000, guid: 68601f4900cdf9143973dfcf9606ab6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5window-promise-textured
+    second: {fileID: 2100000, guid: 1ededbaf68b3bd94fbb86dc3d142136f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back Blue Doors
+    second: {fileID: 2100000, guid: a0ebe2f4095c2364bb99bacb30c9d283, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue Metal
+    second: {fileID: 2100000, guid: 871691471ab52774cb57c7df6ba9b735, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -19,13 +136,83 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Campus Center Lettering
+    second: {fileID: 2100000, guid: d3ee3622ba7797f47977f23ee56f09aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Campus Center Long Lettering
+    second: {fileID: 2100000, guid: 0aeb687b930b4b64c879647510c48833, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete
+    second: {fileID: 2100000, guid: 4ee07e6f096433b44ac92aa99804edac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete 2
+    second: {fileID: 2100000, guid: 39fe4ee6d11b8dd4f8461a3a08c9cb9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front Doors
+    second: {fileID: 2100000, guid: 372ee1f4be396a6439a0afc5844c1a0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Garbage_
+    second: {fileID: 2100000, guid: 2ea2d4e9e57cb4b4691a4dbcff8eed93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Glass
     second: {fileID: 2100000, guid: df50638e8e34bb54980dbe1588ad8237, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: White
-    second: {fileID: 2100000, guid: 9b0db711dd04a3e4a8f3c6b9a3cc28b2, type: 2}
+      name: Light Blue Metal
+    second: {fileID: 2100000, guid: 80a3d128b8136d7488619cf3e9353a71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poster1
+    second: {fileID: 2100000, guid: a724f5208d1563d45b089b8b868a61a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poster2
+    second: {fileID: 2100000, guid: 20d51d2903d36554ead674fe9e56547d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Tile
+    second: {fileID: 2100000, guid: 602ad27d1c52665459f177aee950420f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vertical Grate
+    second: {fileID: 2100000, guid: f3f78b53af569954a8725bcc0e855018, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walkway
+    second: {fileID: 2100000, guid: 8ec2f19e242f569419dad2d2e4a7841a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: acu-logo-window-textured
+    second: {fileID: 2100000, guid: f3c1c7dc42916aa4681d1dc079aa1473, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mail-textured
+    second: {fileID: 2100000, guid: 0ce852a9d56c40447851486204b3d15e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skinny-window-textured
+    second: {fileID: 2100000, guid: c768c19b26e5bfa4b906ea6c467ddf88, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
