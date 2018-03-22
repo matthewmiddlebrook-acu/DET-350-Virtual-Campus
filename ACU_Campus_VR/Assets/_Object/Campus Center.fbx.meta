@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 83df48a76a82ca34baec22d21607f80d
-timeCreated: 1520521787
+guid: 591cb82dca18d2841be04545e5d9d016
+timeCreated: 1521742137
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -10,93 +10,83 @@ ModelImporter:
     100004: Plane.000
     100006: Plane.003
     100008: Plane.004
-    100010: Plane.005
-    100012: Plane.006
-    100014: Plane.007
-    100016: Plane.008
-    100018: Plane.010
-    100020: Plane.011
-    100022: Plane.012
-    100024: Plane.013
-    100026: Plane.014
-    100028: Plane.015
-    100030: Plane.016
-    100032: Plane.017
-    100034: Plane.018
-    100036: Plane.019
+    100010: Plane.006
+    100012: Plane.007
+    100014: Plane.008
+    100016: Plane.010
+    100018: Plane.011
+    100020: Plane.012
+    100022: Plane.013
+    100024: Plane.014
+    100026: Plane.015
+    100028: Plane.016
+    100030: Plane.017
+    100032: Plane.019
     400000: //RootNode
     400002: Cube
     400004: Plane.000
     400006: Plane.003
     400008: Plane.004
-    400010: Plane.005
-    400012: Plane.006
-    400014: Plane.007
-    400016: Plane.008
-    400018: Plane.010
-    400020: Plane.011
-    400022: Plane.012
-    400024: Plane.013
-    400026: Plane.014
-    400028: Plane.015
-    400030: Plane.016
-    400032: Plane.017
-    400034: Plane.018
-    400036: Plane.019
+    400010: Plane.006
+    400012: Plane.007
+    400014: Plane.008
+    400016: Plane.010
+    400018: Plane.011
+    400020: Plane.012
+    400022: Plane.013
+    400024: Plane.014
+    400026: Plane.015
+    400028: Plane.016
+    400030: Plane.017
+    400032: Plane.019
     2300000: Cube
     2300002: Plane.000
     2300004: Plane.003
     2300006: Plane.004
-    2300008: Plane.005
-    2300010: Plane.006
-    2300012: Plane.007
-    2300014: Plane.008
-    2300016: Plane.010
-    2300018: Plane.011
-    2300020: Plane.012
-    2300022: Plane.013
-    2300024: Plane.014
-    2300026: Plane.015
-    2300028: Plane.016
-    2300030: Plane.017
-    2300032: Plane.018
-    2300034: Plane.019
+    2300008: Plane.006
+    2300010: Plane.007
+    2300012: Plane.008
+    2300014: Plane.010
+    2300016: Plane.011
+    2300018: Plane.012
+    2300020: Plane.013
+    2300022: Plane.014
+    2300024: Plane.015
+    2300026: Plane.016
+    2300028: Plane.017
+    2300030: Plane.019
     3300000: Cube
     3300002: Plane.000
     3300004: Plane.003
     3300006: Plane.004
-    3300008: Plane.005
-    3300010: Plane.006
-    3300012: Plane.007
-    3300014: Plane.008
-    3300016: Plane.010
-    3300018: Plane.011
-    3300020: Plane.012
-    3300022: Plane.013
-    3300024: Plane.014
-    3300026: Plane.015
-    3300028: Plane.016
-    3300030: Plane.017
-    3300032: Plane.018
-    3300034: Plane.019
-    4300000: Plane.019
-    4300002: Plane.018
+    3300008: Plane.006
+    3300010: Plane.007
+    3300012: Plane.008
+    3300014: Plane.010
+    3300016: Plane.011
+    3300018: Plane.012
+    3300020: Plane.013
+    3300022: Plane.014
+    3300024: Plane.015
+    3300026: Plane.016
+    3300028: Plane.017
+    3300030: Plane.019
+    4300000: Plane.015
+    4300002: Plane.019
     4300004: Plane.017
     4300006: Plane.016
-    4300008: Plane.015
-    4300010: Plane.013
-    4300012: Plane.014
-    4300014: Cube
-    4300016: Plane.012
-    4300018: Plane.011
-    4300020: Plane.010
-    4300022: Plane.008
-    4300024: Plane.007
-    4300026: Plane.006
-    4300028: Plane.000
-    4300030: Plane.005
-    4300032: Plane.004
-    4300034: Plane.003
+    4300008: Plane.013
+    4300010: Plane.014
+    4300012: Cube
+    4300014: Plane.012
+    4300016: Plane.011
+    4300018: Plane.010
+    4300020: Plane.008
+    4300022: Plane.007
+    4300024: Plane.006
+    4300026: Plane.000
+    4300028: Plane.004
+    4300030: Plane.003
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -121,21 +111,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Back Blue Doors
-    second: {fileID: 2100000, guid: a0ebe2f4095c2364bb99bacb30c9d283, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Blue Metal
-    second: {fileID: 2100000, guid: 871691471ab52774cb57c7df6ba9b735, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Brick
-    second: {fileID: 2100000, guid: 9ffa98039349e8542808b361f062e764, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Campus Center Lettering
     second: {fileID: 2100000, guid: d3ee3622ba7797f47977f23ee56f09aa, type: 2}
   - first:
@@ -152,12 +127,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Concrete 2
-    second: {fileID: 2100000, guid: 39fe4ee6d11b8dd4f8461a3a08c9cb9c, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Front Doors
-    second: {fileID: 2100000, guid: 372ee1f4be396a6439a0afc5844c1a0b, type: 2}
+    second: {fileID: 2100000, guid: c3fc98d7522992147b1e10ffaa387779, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -166,8 +136,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Glass
-    second: {fileID: 2100000, guid: df50638e8e34bb54980dbe1588ad8237, type: 2}
+      name: Glass.001
+    second: {fileID: 2100000, guid: eb9ce77714a3071418d7062187a1dc7d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -191,11 +161,6 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Vertical Grate
-    second: {fileID: 2100000, guid: f3f78b53af569954a8725bcc0e855018, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Walkway
     second: {fileID: 2100000, guid: 8ec2f19e242f569419dad2d2e4a7841a, type: 2}
   - first:
@@ -206,6 +171,36 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: blue-back-doors-textured
+    second: {fileID: 2100000, guid: a0ebe2f4095c2364bb99bacb30c9d283, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue-metal-material
+    second: {fileID: 2100000, guid: fcd45dde2e07e3d4289e4821e09a3d7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bric-textured
+    second: {fileID: 2100000, guid: 9ffa98039349e8542808b361f062e764, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: front-doors-textured
+    second: {fileID: 2100000, guid: 372ee1f4be396a6439a0afc5844c1a0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass-material
+    second: {fileID: 2100000, guid: d975dc8382b53724882738ea032ed415, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: large-window-textured
+    second: {fileID: 2100000, guid: e8d78c1558e6aab4e86b2ccf26d5468b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mail-textured
     second: {fileID: 2100000, guid: 0ce852a9d56c40447851486204b3d15e, type: 2}
   - first:
@@ -213,6 +208,16 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: skinny-window-textured
     second: {fileID: 2100000, guid: c768c19b26e5bfa4b906ea6c467ddf88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: small-windows-textured
+    second: {fileID: 2100000, guid: 03931237b5e484543b086ce02e28b10f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vertical-grate-textured
+    second: {fileID: 2100000, guid: f3f78b53af569954a8725bcc0e855018, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
